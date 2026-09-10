@@ -17,7 +17,7 @@
     "test": "npm run lint && npm run test:only"
   },
   "keywords": [],
-  "author": "Mate Academy",
+  "author": "Sidach Ruslan",
   "license": "GPL-3.0",
   "devDependencies": {
     "@linthtml/linthtml": "^0.9.6",
