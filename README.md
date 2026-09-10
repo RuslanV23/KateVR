@@ -4,7 +4,7 @@ A responsive landing page for **KAT Loco** — a VR locomotion system that enabl
 
 ## Demo
 
-[Open live demo](https://your-username.github.io/layo43ut_KateVR/)
+[Open live demo](https://ruslanv23.github.io/KateVR/)
 
 > Replace the link above with the actual published project URL.
 
